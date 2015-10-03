@@ -5,3 +5,4 @@ add third
 new branch
 now in the master
 now in the branch
+now in the branch2
